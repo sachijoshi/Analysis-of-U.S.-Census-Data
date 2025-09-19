@@ -7,16 +7,16 @@
 
 ## Data Description
 ### The datasets contain population statistics for different states and regions in the U.S., focusing on:
-#### Demographics: Marital status, education, and citizenship data.
-#### Mobility: Relocation within states and across states.
+#### - Demographics: Marital status, education, and citizenship data.
+#### - Mobility: Relocation within states and across states.
 #### The variables used for analysis include:
-#### Total Population
-#### Never Married
-#### Married
-#### Total U.S. Citizens (Naturalized)
-#### Total Non-Citizens
-#### Relocated within State
-#### Relocated between States
+#### - Total Population
+#### - Never Married
+#### - Married
+#### - Total U.S. Citizens (Naturalized)
+#### - Total Non-Citizens
+#### - Relocated within State
+#### - Relocated between States
 
 # Analysis Steps
 ## Data Overview and Quality Assessment
